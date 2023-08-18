@@ -1,0 +1,6 @@
+name: GrimAcLavaFix
+version: '1.0'
+main: de.itsTyrion.grimLavaFix.GrimLavaFixPlugin
+author: 'itsTyrion'
+api-version: '1.13'
+depend: [ 'GrimAC' ]
